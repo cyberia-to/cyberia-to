@@ -1,0 +1,835 @@
+name = "Tunisia"
+code = "TN"
+flag = "🇹🇳"
+region = "Africa"
+population = 12458223
+land_area_km2 = 163610
+currency_code = "TND"
+currency_name = "Tunisian Dinar"
+money_supply_b_usd = 30.0
+token_price_usd = 0.32000
+visa_free_destinations = 72
+visa_free_inbound = 95
+
+[[visa_access]]
+country = "Algeria"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Barbados"
+type = "visa-free"
+days = 180
+
+[[visa_access]]
+country = "Belize"
+type = "visa-free"
+
+[[visa_access]]
+country = "Benin"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Brazil"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Dominica"
+type = "visa-free"
+days = 21
+
+[[visa_access]]
+country = "Ecuador"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Ecuatorial"
+type = "visa-free"
+days = 30
+
+[[visa_access]]
+country = "Fiji"
+type = "visa-free"
+days = 120
+
+[[visa_access]]
+country = "Gabon"
+type = "visa-free"
+
+[[visa_access]]
+country = "Gambia"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Guinea"
+type = "visa-free"
+
+[[visa_access]]
+country = "Haiti"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Hong Kong"
+type = "visa-free"
+days = 30
+
+[[visa_access]]
+country = "Iran"
+type = "visa-free"
+days = 15
+
+[[visa_access]]
+country = "Ivory Coast"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Japan"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Libya"
+type = "visa-free"
+
+[[visa_access]]
+country = "Malaysia"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Mali"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Mauritania"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Mauritius"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Micronesia"
+type = "visa-free"
+days = 30
+
+[[visa_access]]
+country = "Morocco"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Niger"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Palestine"
+type = "visa-free"
+
+[[visa_access]]
+country = "Philippines"
+type = "visa-free"
+days = 30
+
+[[visa_access]]
+country = "Rwanda"
+type = "visa-free"
+days = 30
+
+[[visa_access]]
+country = "Senegal"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Seychelles"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "South Africa"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Suriname"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Syria"
+type = "visa-free"
+
+[[visa_access]]
+country = "Turkey"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Vanuatu"
+type = "visa-free"
+days = 120
+
+[[visa_access]]
+country = "Vincy"
+type = "visa-free"
+days = 90
+
+[[visa_access]]
+country = "Bissau"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Bolivia"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Burkina"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Burundi"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Cambodia"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Cape Verde"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Comoros"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Djibouti"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Ethiopia"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Ghana"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Indonesia"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Jordan"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Laos"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Lebanon"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Macau"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Madagascar"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Maldives"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Mozambique"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Namibia"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Nepal"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Nicaragua"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Nigeria"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Palau"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Samoa"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Somalia"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Sri Lanka"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Tajikistan"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Tanzania"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Thailand"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Timor"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Tuvalu"
+type = "visa-on-arrival"
+
+[[visa_access]]
+country = "Kenya"
+type = "eta"
+
+[[visa_access]]
+country = "Korea"
+type = "eta"
+
+[[visa_access]]
+country = "Pakistan"
+type = "eta"
+
+[[visa_access]]
+country = "Albania"
+type = "e-visa"
+
+[[visa_access]]
+country = "Antigua"
+type = "e-visa"
+
+[[visa_access]]
+country = "Armenia"
+type = "e-visa"
+
+[[visa_access]]
+country = "Australia"
+type = "e-visa"
+
+[[visa_access]]
+country = "Bahamas"
+type = "e-visa"
+
+[[visa_access]]
+country = "Bahrain"
+type = "e-visa"
+
+[[visa_access]]
+country = "Bhutan"
+type = "e-visa"
+
+[[visa_access]]
+country = "Botswana"
+type = "e-visa"
+
+[[visa_access]]
+country = "Cameroon"
+type = "e-visa"
+
+[[visa_access]]
+country = "Colombia"
+type = "e-visa"
+
+[[visa_access]]
+country = "Congo"
+type = "e-visa"
+
+[[visa_access]]
+country = "Cuba"
+type = "e-visa"
+
+[[visa_access]]
+country = "Emirates"
+type = "e-visa"
+
+[[visa_access]]
+country = "Georgia"
+type = "e-visa"
+
+[[visa_access]]
+country = "Iraq"
+type = "e-visa"
+
+[[visa_access]]
+country = "Kazakhstan"
+type = "e-visa"
+
+[[visa_access]]
+country = "Kitts"
+type = "e-visa"
+
+[[visa_access]]
+country = "Kyrgyzstan"
+type = "e-visa"
+
+[[visa_access]]
+country = "Lesotho"
+type = "e-visa"
+
+[[visa_access]]
+country = "Malawi"
+type = "e-visa"
+
+[[visa_access]]
+country = "Moldova"
+type = "e-visa"
+
+[[visa_access]]
+country = "Oman"
+type = "e-visa"
+
+[[visa_access]]
+country = "Papua"
+type = "e-visa"
+
+[[visa_access]]
+country = "Qatar"
+type = "e-visa"
+
+[[visa_access]]
+country = "Salvador"
+type = "e-visa"
+
+[[visa_access]]
+country = "Sao Tome"
+type = "e-visa"
+
+[[visa_access]]
+country = "Sierra Leone"
+type = "e-visa"
+
+[[visa_access]]
+country = "Singapore"
+type = "e-visa"
+
+[[visa_access]]
+country = "South Sudan"
+type = "e-visa"
+
+[[visa_access]]
+country = "Togo"
+type = "e-visa"
+
+[[visa_access]]
+country = "Uganda"
+type = "e-visa"
+
+[[visa_access]]
+country = "Uzbekistan"
+type = "e-visa"
+
+[[visa_access]]
+country = "Vietnam"
+type = "e-visa"
+
+[[visa_access]]
+country = "Zambia"
+type = "e-visa"
+
+[[visa_access]]
+country = "Zimbabwe"
+type = "e-visa"
+
+[[visa_access]]
+country = "Afghanistan"
+type = "visa-required"
+
+[[visa_access]]
+country = "America"
+type = "visa-required"
+
+[[visa_access]]
+country = "Andorra"
+type = "visa-required"
+
+[[visa_access]]
+country = "Angola"
+type = "visa-required"
+
+[[visa_access]]
+country = "Argentina"
+type = "visa-required"
+
+[[visa_access]]
+country = "Austria"
+type = "visa-required"
+
+[[visa_access]]
+country = "Azerbaijan"
+type = "visa-required"
+
+[[visa_access]]
+country = "Bangladesh"
+type = "visa-required"
+
+[[visa_access]]
+country = "Belarus"
+type = "visa-required"
+
+[[visa_access]]
+country = "Belgium"
+type = "visa-required"
+
+[[visa_access]]
+country = "Bosnia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Brazzaville"
+type = "visa-required"
+
+[[visa_access]]
+country = "Britain"
+type = "visa-required"
+
+[[visa_access]]
+country = "Brunei"
+type = "visa-required"
+
+[[visa_access]]
+country = "Bulgaria"
+type = "visa-required"
+
+[[visa_access]]
+country = "Canada"
+type = "visa-required"
+
+[[visa_access]]
+country = "Centrafrique"
+type = "visa-required"
+
+[[visa_access]]
+country = "Chad"
+type = "visa-required"
+
+[[visa_access]]
+country = "Chile"
+type = "visa-required"
+
+[[visa_access]]
+country = "China"
+type = "visa-required"
+
+[[visa_access]]
+country = "Costa Rica"
+type = "visa-required"
+
+[[visa_access]]
+country = "Croatia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Cyprus"
+type = "visa-required"
+
+[[visa_access]]
+country = "Czechia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Denmark"
+type = "visa-required"
+
+[[visa_access]]
+country = "Dominicana"
+type = "visa-required"
+
+[[visa_access]]
+country = "Egypt"
+type = "visa-required"
+
+[[visa_access]]
+country = "Eritrea"
+type = "visa-required"
+
+[[visa_access]]
+country = "Estonia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Finland"
+type = "visa-required"
+
+[[visa_access]]
+country = "France"
+type = "visa-required"
+
+[[visa_access]]
+country = "Germany"
+type = "visa-required"
+
+[[visa_access]]
+country = "Greece"
+type = "visa-required"
+
+[[visa_access]]
+country = "Grenada"
+type = "visa-required"
+
+[[visa_access]]
+country = "Guatemala"
+type = "visa-required"
+
+[[visa_access]]
+country = "Guyana"
+type = "visa-required"
+
+[[visa_access]]
+country = "Honduras"
+type = "visa-required"
+
+[[visa_access]]
+country = "Hungary"
+type = "visa-required"
+
+[[visa_access]]
+country = "Iceland"
+type = "visa-required"
+
+[[visa_access]]
+country = "India"
+type = "visa-required"
+
+[[visa_access]]
+country = "Ireland"
+type = "visa-required"
+
+[[visa_access]]
+country = "Israel"
+type = "visa-required"
+
+[[visa_access]]
+country = "Italy"
+type = "visa-required"
+
+[[visa_access]]
+country = "Jamaica"
+type = "visa-required"
+
+[[visa_access]]
+country = "Kiribati"
+type = "visa-required"
+
+[[visa_access]]
+country = "Kosovo"
+type = "visa-required"
+
+[[visa_access]]
+country = "Kuwait"
+type = "visa-required"
+
+[[visa_access]]
+country = "Latvia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Liberia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Liechtenstein"
+type = "visa-required"
+
+[[visa_access]]
+country = "Lithuania"
+type = "visa-required"
+
+[[visa_access]]
+country = "Lucia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Luxembourg"
+type = "visa-required"
+
+[[visa_access]]
+country = "Macedonia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Malta"
+type = "visa-required"
+
+[[visa_access]]
+country = "Marshalls"
+type = "visa-required"
+
+[[visa_access]]
+country = "Mexico"
+type = "visa-required"
+
+[[visa_access]]
+country = "Monaco"
+type = "visa-required"
+
+[[visa_access]]
+country = "Mongolia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Montenegro"
+type = "visa-required"
+
+[[visa_access]]
+country = "Myanmar"
+type = "visa-required"
+
+[[visa_access]]
+country = "Nauru"
+type = "visa-required"
+
+[[visa_access]]
+country = "Netherlands"
+type = "visa-required"
+
+[[visa_access]]
+country = "New Zealand"
+type = "visa-required"
+
+[[visa_access]]
+country = "North Korea"
+type = "visa-required"
+
+[[visa_access]]
+country = "Norway"
+type = "visa-required"
+
+[[visa_access]]
+country = "Panama"
+type = "visa-required"
+
+[[visa_access]]
+country = "Paraguay"
+type = "visa-required"
+
+[[visa_access]]
+country = "Peru"
+type = "visa-required"
+
+[[visa_access]]
+country = "Poland"
+type = "visa-required"
+
+[[visa_access]]
+country = "Portugal"
+type = "visa-required"
+
+[[visa_access]]
+country = "Romania"
+type = "visa-required"
+
+[[visa_access]]
+country = "Russia"
+type = "visa-required"
+
+[[visa_access]]
+country = "San Marino"
+type = "visa-required"
+
+[[visa_access]]
+country = "Saudi"
+type = "visa-required"
+
+[[visa_access]]
+country = "Serbia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Slovakia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Slovenia"
+type = "visa-required"
+
+[[visa_access]]
+country = "Solomons"
+type = "visa-required"
+
+[[visa_access]]
+country = "Spain"
+type = "visa-required"
+
+[[visa_access]]
+country = "Sudan"
+type = "visa-required"
+
+[[visa_access]]
+country = "Swaziland"
+type = "visa-required"
+
+[[visa_access]]
+country = "Sweden"
+type = "visa-required"
+
+[[visa_access]]
+country = "Switzerland"
+type = "visa-required"
+
+[[visa_access]]
+country = "Taiwan"
+type = "visa-required"
+
+[[visa_access]]
+country = "Tonga"
+type = "visa-required"
+
+[[visa_access]]
+country = "Trinidad"
+type = "visa-required"
+
+[[visa_access]]
+country = "Turkmenistan"
+type = "visa-required"
+
+[[visa_access]]
+country = "Ukraine"
+type = "visa-required"
+
+[[visa_access]]
+country = "Uruguay"
+type = "visa-required"
+
+[[visa_access]]
+country = "Vatican"
+type = "visa-required"
+
+[[visa_access]]
+country = "Venezuela"
+type = "visa-required"
+
+[[visa_access]]
+country = "Yemen"
+type = "visa-required"
+
