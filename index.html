@@ -20,6 +20,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet" />
 <style>
     :root {
+        --yellow: #ffc501;
         --green: #00ff01;
         --cyan: #00b4ff;
         --yellow: #ffc501;
@@ -95,6 +96,15 @@
         min-width: 172px;
     }
     .proj:hover .domain { color: #7fff80; }
+    .proj.st-y .domain { color: var(--yellow, #ffc501); }
+    .proj.st-y:hover .domain { color: #ffd84d; }
+    .proj.st-y:hover { background: rgba(255, 197, 1, 0.03); }
+    .proj.st-r .domain { color: #ff5050; }
+    .proj.st-r:hover .domain { color: #ff8080; }
+    .proj.st-r:hover { background: rgba(255, 80, 80, 0.04); }
+    .proj .st { font-size: 12px; }
+    .proj.st-y .st { color: var(--yellow, #ffc501); }
+    .proj.st-r .st { color: #ff5050; }
     .proj .desc {
         font-size: clamp(13px, 2.2vw, 15px);
         color: #99a;
@@ -154,9 +164,9 @@
 
     <div class="sec">PROJECTS</div>
     <div class="projects">
-        <a class="proj" href="https://cyber.page" target="_blank" rel="noopener">
+        <a class="proj st-y" href="https://cyber.page" target="_blank" rel="noopener">
             <span class="domain">cyber.page</span>
-            <span class="desc">get paid to understand</span>
+            <span class="desc">get paid to understand <span class="st">(testnet)</span></span>
             <span class="arr">→</span>
         </a>
         <a class="proj" href="https://bostrom.network" target="_blank" rel="noopener">
@@ -164,7 +174,7 @@
             <span class="desc">bootloader of superintelligence and moon cyberstate</span>
             <span class="arr">→</span>
         </a>
-        <a class="proj" href="https://cyb.ai" target="_blank" rel="noopener">
+        <a class="proj st-y" href="https://cyb.ai" target="_blank" rel="noopener">
             <span class="domain">cyb.ai</span>
             <span class="desc">immortal robot</span>
             <span class="arr">→</span>
@@ -179,14 +189,14 @@
             <span class="desc">the stack</span>
             <span class="arr">→</span>
         </a>
-        <a class="proj" href="https://cyberia.my" target="_blank" rel="noopener">
+        <a class="proj st-y" href="https://cyberia.my" target="_blank" rel="noopener">
             <span class="domain">cyberia.my</span>
-            <span class="desc">the interface</span>
+            <span class="desc">the interface <span class="st">(mockup)</span></span>
             <span class="arr">→</span>
         </a>
-        <a class="proj" href="https://cyberia.capital" target="_blank" rel="noopener">
+        <a class="proj st-r" href="https://cyberia.capital" target="_blank" rel="noopener">
             <span class="domain">cyberia.capital</span>
-            <span class="desc">the capital of cyberia in ethereum and beyond</span>
+            <span class="desc">the capital of cyberia in ethereum and beyond <span class="st">(design stage)</span></span>
             <span class="arr">→</span>
         </a>
         <a class="proj" href="https://cybervalley.io" target="_blank" rel="noopener">
