@@ -24,3 +24,5 @@ Rsyncs the root → `cyberproxy:/var/www/html/cyberia.to/`.
 |------|------|-------|
 | A | @ | 167.235.28.94 |
 | CNAME | www | cyberia.to |
+
+`cyberia.blog` (chronicle + graph) is a sibling vhost on the same host — nginx in `cybernode/servers/cyberproxy/nginx/cyberia.blog`, source `~/cyber/cyberia-blog`.
